@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "NIGHT DANCER",
+  "base_artist": "imase",
+  "createdAt": "2025-12-02T13:07:49.766012Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "NIGHT DANCER",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/01_NIGHT_DANCER_imase.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "NIGHT DANCER",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/02_NIGHT_DANCER_imase.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "NIGHT DANCER",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/03_NIGHT_DANCER_imase.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "NIGHT DANCER (BIG Naughty Remix)",
+      "artist": "imase feat. BIG Naughty",
+      "has_synced": true,
+      "path": "select/04_NIGHT_DANCER_(BIG_Naughty_Remix)_imase_feat._BIG_Naughty.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "NIGHT DANCER (BIG Naughty Remix)",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/05_NIGHT_DANCER_(BIG_Naughty_Remix)_imase.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "NIGHT DANCER",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/06_NIGHT_DANCER_imase.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "NIGHT DANCER - English Ver.",
+      "artist": "imase",
+      "has_synced": false,
+      "path": "select/07_NIGHT_DANCER_-_English_Ver._imase.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "NIGHT DANCER (English Ver.)",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/08_NIGHT_DANCER_(English_Ver.)_imase.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "NIGHT DANCER (Korean Version)",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/09_NIGHT_DANCER_(Korean_Version)_imase.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "NIGHT DANCER (Korean Ver.)",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/10_NIGHT_DANCER_(Korean_Ver.)_imase.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "NIGHT DANCER",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/11_NIGHT_DANCER_imase.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "NIGHT DANCER",
+      "artist": "Will Stetson",
+      "has_synced": true,
+      "path": "select/12_NIGHT_DANCER_Will_Stetson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "NIGHT DANCER - Spanish Cover",
+      "artist": "Ssac Tellme!",
+      "has_synced": true,
+      "path": "select/13_NIGHT_DANCER_-_Spanish_Cover_Ssac_Tellme!.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "「NIGHT DANCER」 (COVER ESPAÑOL) - imase - 【Ssac Tellme】",
+      "artist": "Ssac Tellme!",
+      "has_synced": true,
+      "path": "select/14_「NIGHT_DANCER」_(COVER_ESPAÑOL)_-_imase_-_【Ssac_Tellme】_Ssac_Tellme!.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "【imase】NIGHT DANCER（MV）",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/15_【imase】NIGHT_DANCER(MV)_imase.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "【imase】NIGHT DANCER（Official Audio）",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/16_【imase】NIGHT_DANCER(Official_Audio)_imase.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "NIGHT DANCER",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/17_NIGHT_DANCER_imase.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NIGHT DANCER",
+      "artist": "imase",
+      "has_synced": false,
+      "path": "select/pl_01_NIGHT_DANCER_imase.txt"
+    }
+  ]
+}
